@@ -1,9 +1,6 @@
 TOKEN = '1037033518:AAGGa2utH6VZ7w92ihfXkTvhc_O5P5Cy_P4'
 
-
 PROXY =  {'proxy_url':'socks5://91.191.173.33:1080', 'urllib3_proxy_kwargs':{'username': 'some',  'password': 'one'}}
-
-EMOJI = [':blue_heart:',':purple_heart:'':heart:',':green_heart:',':broken_heart:',':heartbeat:',':heartpulse:',':two_hearts:','revolving_hearts:',':cupid:',':sparkling_heart:',':sparkles:',':star:',':star2:',':dizzy:',':boom:',':collision:',':anger:']
 
 questions = {
   'Сколько лет было Пророку (ﷺ) когда он впервые выехал в Шам с дядей Абу Талибом?':['12', '9',  '10', '7'],
